@@ -29,4 +29,6 @@ public class Hall {
     public void setAmountOfPlace(int amountOfPlace) {
         this.amountOfPlace = amountOfPlace;
     }
+
+
 }
