@@ -1,7 +1,5 @@
 package ru.levelup.java.cinema.theater.entities;
 
-
-
 import java.util.List;
 
 public class Client {
