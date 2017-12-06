@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Halls>
+    <Hall>
+        <name>Skala</name>
+        <amountOfPlace>21</amountOfPlace>
+        <language>Java</language>
+    </Hall>
+    <Hall>
+        <name>Viktor</name>
+        <amountOfPlace>21</amountOfPlace>
+        <language>Java</language>
+    </Hall>
+    <Hall>
+        <name>Dima</name>
+        <age>22</age>
+        <language>Java</language>
+    </Hall>
+</Halls>
